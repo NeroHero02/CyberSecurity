@@ -15,8 +15,8 @@ Examples of Web applications include:
 - E-commerce Websites (Amazon,eBay)
 - Cloud-based productivity tools(Google Workspace, Microsoft Office 365)  
 
-Website ---> Static
-Web App ---> Dynamic
+Website ---> Static  
+Web App ---> Dynamic  
 
 **How Do Web Applications Works?**  
 
@@ -33,5 +33,5 @@ Statelessness: HTTP, the protocol used for communication between web browsers an
 **Web Application Security** 
 
 Authentication : Who you ?  
-Authorization : What is you'r permissions  
+Authorization : What is you'r permissions?  
 
