@@ -35,3 +35,17 @@ Statelessness: HTTP, the protocol used for communication between web browsers an
 Authentication : Who you ?  
 Authorization : What is you'r permissions?  
 
+**Web Application Security Testing**  
+
+Web Application Security Testing is the process of evaulating and assessing the security aspects of web applications to idnetify vulnerabilities, weaknesses, and potential security risks.  
+
+Types of security testing conducted on web applications :  
+
+1. Vulnerability Scanning : Using automated tools to scan the web application for known vulnerabilities, such as SQL injection, Cross-Site Scripting(XSS), insecure configurations, and outdated software versions.  
+
+2. Penetration Testing: Simulating real-world attacs to access the application's defenses and identify potential security weaknesses.
+
+3. Code Review and Start Analysis: Manual examination of the application's source code to identify coding flaws, security misconfigurations, and potential security risks.  
+
+
+
