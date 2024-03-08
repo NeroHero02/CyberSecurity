@@ -47,5 +47,26 @@ Types of security testing conducted on web applications :
 
 3. Code Review and Start Analysis: Manual examination of the application's source code to identify coding flaws, security misconfigurations, and potential security risks.  
 
+4. Authentication and Authorization Testing : Evaluating the effectiveness of authentication mechanisms and access control features to ensure that only authorized users have appropriate access levels.  
+
+5. Input Validation and Output Encoding Testing : Assessing how the application handles user inputs to prevent common security vulnerabilities like XSS and SQL injection.  
+
+6. Session Management Testing: Verifying how the application manages user sessions and related tokens to prevent session-related attacks.  
+
+7. API Security Testing: Assessing the security of APIs (Application Programming Interfaces) used by the web application for data exchange and integration with other systems.  
+
+8. Web application pentesting : is a subset of web application security testing that specifically involves attempting to exploit identified vulnerabilities.  
+
+**Web App Pentesting vs Web App Security Testing**  
+
+1. Scope: Web application security testing covers a broader range of assessments, including static and dynamic analysis, while web application pentesting focuses on actively exploiting vulnerabilities.  
+
+2. Objective: The primary goal of security testing is to identify weaknesses, whereas pentesting aims to validate vulnerabilities and assess the organization's ability to detect and respond to attacks.  
+
+3. Methodology: Security testing includes both manual and automated techniques, while pentesting is predominantly a manual process, involving the use of various tools and techniques for exploitation.  
+
+4. Exploitation: Security testing does not involve exploitation of vulnerabilities, while pentesting does, albeit in a controlled and authorized manner.  
+
+
 
 
